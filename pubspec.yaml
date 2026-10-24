@@ -1,4 +1,4 @@
-name: offline_ai_app
+name: delyu_ai
 description: A completely offline rule-based AI app using Flutter and JSON.
 publish_to: 'none'
 version: 1.0.0+1
