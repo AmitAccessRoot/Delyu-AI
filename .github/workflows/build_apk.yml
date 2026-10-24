@@ -21,7 +21,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: 'stable'
+          flutter-version: '3.19.x' # यहाँ सही वर्जन फॉर्मेट दिया गया है
           channel: 'stable'
 
       - name: Install Dependencies
